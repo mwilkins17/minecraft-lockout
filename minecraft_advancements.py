@@ -9,7 +9,6 @@ old_advancements = [
 {"name": "Return to Sender (ghast)"},
 {"name": "Bullseye (target)"},
 {"name": "Sniper Duel (skeleton)"},
-{"name": "Overpowered (notch)"},
 {"name": "War Pigs (bastion chest)"},
 {"name": "Who's the Pillager now (crossbow)"},
 {"name": "Hired Help (iron golem)"},
